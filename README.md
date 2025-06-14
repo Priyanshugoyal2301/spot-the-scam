@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕵️‍♂️ DS-1: Spot the Scam
 
 A machine learning app to detect **fraudulent job postings** and help users avoid scams.
@@ -25,3 +26,6 @@ A machine learning app to detect **fraudulent job postings** and help users avoi
 
 ```bash
 pip install -r requirements.txt
+=======
+# spot-the-scam
+>>>>>>> 85eaf8dd09a39e103c57477a90726bbcdbdd75b6
